@@ -32,21 +32,21 @@ img{
 #red{
 	background-color: red;
 	text-align: right;
-	height: 150px;
+	min-height: 150px auto;
 	padding: 25px 25px 25px 25px;
 }
 
 #blue{
 	background-color: blue;
 	text-align: left;
-	height: 150px auto;
+	min-height: 150px auto;
 	padding: 25px 25px 25px 25px;
 }
 
 #yellow{
 	background-color: yellow;
 	text-align: right;
-	height: 150px auto;
+	min-height: 150px auto;
 	padding: 25px 25px 25px 25px;
 }
 
@@ -62,7 +62,7 @@ img{
 #green{
 	background-color: green;
 	text-align: left;
-	height: 150px auto;
+	min-height: 150px auto;
 	padding: 25px 25px 25px 25px;
 }
 
