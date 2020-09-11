@@ -32,7 +32,7 @@ img{
 	background-color: red;
 	text-align: right;
 	min-height: 150px;
-	max-height: auto;
+	max-height: fit-content;
 	padding: 25px 25px 25px 25px;
 }
 
