@@ -40,7 +40,7 @@ img{
 	background-color: blue;
 	text-align: left;
 	min-height: 150px;
-	max-height: auto;
+	max-height: fit-content;
 	padding: 25px 25px 25px 25px;
 }
 
@@ -48,7 +48,7 @@ img{
 	background-color: yellow;
 	text-align: right;
 	min-height: 150px;
-	max-height: auto;
+	max-height: fit-content;
 	padding: 25px 25px 25px 25px;
 }
 
@@ -65,7 +65,7 @@ img{
 	background-color: green;
 	text-align: left;
 	min-height: 150px;
-	max-height: auto;
+	max-height: fit-content;
 	padding: 25px 25px 25px 25px;
 }
 
