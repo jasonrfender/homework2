@@ -25,14 +25,14 @@ p{
 img{
 	display: block;
 	margin: auto;
-	width: 550px;
+	width: 525px;
 	padding: 10px;
 }
 
 #red{
 	background-color: red;
 	text-align: right;
-	height: 150px auto;
+	height: 150px;
 	padding: 25px 25px 25px 25px;
 }
 
