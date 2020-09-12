@@ -15,7 +15,7 @@ h2{
 	offset-distance: 5px;
 }
 
-p{
+p:not(:first-child){
 	font-size: 24px;
 	padding-top: 20px;
 	color: #ffffff;
