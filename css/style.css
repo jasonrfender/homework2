@@ -1,7 +1,7 @@
 body{
-	background-color: black;
+	background-color: #000000;
 	font-family: 'Lucida Grande', sans-serif;
-	color: white;
+	color: #ffffff;
 }
 
 h1{
@@ -18,7 +18,7 @@ h2{
 p{
 	font-size: 24px;
 	padding-top: 20px;
-	color: white;
+	color: #ffffff;
 }
 
 img{
@@ -29,7 +29,7 @@ img{
 }
 
 #red{
-	background-color: red;
+	background-color: #ff0000;
 	text-align: right;
 	min-height: 150px;
 	max-height: fit-content;
@@ -37,7 +37,7 @@ img{
 }
 
 #blue{
-	background-color: blue;
+	background-color: #0000ff;
 	text-align: left;
 	min-height: 150px;
 	max-height: fit-content;
@@ -45,7 +45,7 @@ img{
 }
 
 #yellow{
-	background-color: yellow;
+	background-color: #ffff00;
 	text-align: right;
 	min-height: 150px;
 	max-height: fit-content;
@@ -53,24 +53,26 @@ img{
 }
 
 #yellow h2{
-	color: black;
-	text-shadow: 5px 5px 2px #c7e2c7;
+	background-color: #ffff00;
+	color: #000000;
+	text-shadow: 5px 5px 2px #c7c7c7;
 }
 
 #yellow p{
-	color: black;
+	color: #000000;
 }
 
 #green{
-	background-color: green;
+	background-color: #008001;
 	text-align: left;
 	min-height: 150px;
 	max-height: fit-content;
 	padding: 25px 25px 25px 25px;
 }
 
-footer p{
+footer p{	
+	position: absolute;
 	text-align: right;
-	padding-bottom: 10px;
 	padding-right: 10px;
+	padding-bottom: 10px; 
 }
